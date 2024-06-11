@@ -18,6 +18,6 @@ TCP를 활용하여 비동기 통신을 하는 간단한 단어 주고받기 프
 
 <br><br>
 
-- Clent
+- Client
 <br><br>
 ![image](https://github.com/ShinMinOh/PingPong/assets/74702677/b1f3121f-8821-4f4d-a2fb-cde259b08f2b)
